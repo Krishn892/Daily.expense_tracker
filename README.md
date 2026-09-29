@@ -34,7 +34,7 @@ daily-expense-tracker/
    ```
 2. Clone this repository:
    ```
-   git clone <your-repo-url>
+   git clone <https://github.com/Krishn892/Daily.expense_tracker>
    cd daily-expense-tracker
    ```
 3. Run the program:
