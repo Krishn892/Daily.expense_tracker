@@ -60,5 +60,3 @@ as the program. This file is created automatically the first time you
 run the program, and every new expense is written to it immediately,
 so your data is still there the next time you run the tracker.
 
-## Screenshots
-(Optional — add terminal screenshots here after running the program.)
